@@ -1,0 +1,109 @@
+```json
+{
+  "shortDescription": "Test your knowledge of Boston NBA champs!",
+  "questions": [
+    {
+      "question": "How many titles?",
+      "answers": ["17", "18", "19"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Larry's last name?",
+      "answers": ["Bird", "Magic", "King"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Paul's last name?",
+      "answers": ["King", "Pierce", "Bird"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Who is Red?",
+      "answers": ["Coach", "Player", "Owner"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Green's first name?",
+      "answers": ["Robert", "Gerald", "Bill"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Bill's last name?",
+      "answers": ["Jones", "Smith", "Russell"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Jersey color?",
+      "answers": ["Blue", "Green", "Red"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "1960s titles?",
+      "answers": ["8", "9", "10"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Big 3 era?",
+      "answers": ["1980s", "2000s", "2010s"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Current arena?",
+      "answers": ["Garden", "Staples", "Arena"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Boston's mascot?",
+      "answers": ["Lucky", "Benny", "Rocky"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "1976 Finals MVP?",
+      "answers": ["White", "Bird", "Russell"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Team's city?",
+      "answers": ["Boston", "LA", "NY"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "First title year?",
+      "answers": ["1957", "1967", "1977"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Nickname?",
+      "answers": ["C's", "Lakers", "Bulls"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "8 straight titles?",
+      "answers": ["1960s", "1970s", "1980s"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Team's founder?",
+      "answers": ["Auerbach", "Russell", "Bird"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "K.C.'s last name?",
+      "answers": ["Jones", "Smith", "Green"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "NBA titles?",
+      "answers": ["17", "16", "15"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Retired number?",
+      "answers": ["23", "6", "32"],
+      "correctAnswerIndex": 1
+    }
+  ]
+}
+```
+
+
